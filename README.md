@@ -7,14 +7,14 @@
  - 2019-2023 Bachelor of Fundamental informatics and information technology, Ural Federal University
  
 ## Skills:
-  - Basic: C#, ReactJS
-  - Intermediate: JavaScript, SQL, Python (Keras) + Ml-stack
-  - Advanced: Python3, Flask
+  - Basic: C#, ReactJS, Docker, DI-containers
+  - Intermediate: JavaScript, SQL, DS-stack (numpy, matplotlib, pandas), SQLAlchemy, HTML, CSS, Linux
+  - Advanced: Python3, Flask, Git)
   
 ## Participation:
-    - Final of NTI Olympiad in Big Data and Machine Learning (2019)
-    - Winning three ML hackathons (2019)
-    - Participation in the Best Urfu hackathon (ML - 2019, Web - 2020)
+  - Final of NTI Olympiad in Big Data and Machine Learning (2019)
+  - Winning three ML hackathons (2019)
+  - Participation in the Best Urfu hackathon (ML - 2019, Web - 2020)
       
 ## 📫 How to reach me:
   - Telegram: @staphan_yorchenko
