@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Work Experience:
   - 2020: internship at the Agency for Strategic Initiatives (stack: Flask + JS + PostgreSQL)
 
