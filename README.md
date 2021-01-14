@@ -6,7 +6,7 @@
  
 ## Skills:
   - Basic: C#, ReactJS, Docker, DI-containers
-  - Intermediate: JavaScript, SQL, DS-stack (numpy, matplotlib, pandas), SQLAlchemy, HTML, CSS, Linux
+  - Intermediate: JavaScript, SQL, DS-stack (numpy, matplotlib, pandas), SQLAlchemy, HTML, CSS, Linux, TCP/IP
   - Advanced: Python3, Flask, Git)
   
 ## Participation:
