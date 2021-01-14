@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**StephanYorchenko/stephanyorchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work Experience:
+  - 2020: internship at the Agency for Strategic Initiatives (stack: Flask + JS + PostgreSQL)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education:
+ - 2019-2023 Bachelor of Fundamental informatics and information technology, Ural Federal University
+ 
+## Skills:
+  - Basic: C#, ReactJS
+  - Intermediate: JavaScript, SQL, Python (Keras) + Ml-stack
+  - Advanced: Python3, Flask
+  
+## Participation:
+    - Final of NTI Olympiad in Big Data and Machine Learning (2019)
+    - Winning three ML hackathons (2019)
+    - Participation in the Best Urfu hackathon (ML - 2019, Web - 2020)
+      
+## 📫 How to reach me:
+  - Telegram: @staphan_yorchenko
+  - stepan33314@yandex.ru
