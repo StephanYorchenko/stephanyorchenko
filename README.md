@@ -11,7 +11,7 @@
       - SQL (PostgreSQL, SQLite), SQLAlchemy
       - unittests
       - numpy, matplotlib, pandas
-      - Linux
+      - Linux, Bash
       - TCP/IP
   - Advanced:
       - Python3
