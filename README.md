@@ -6,8 +6,16 @@
  
 ## Skills:
   - Basic: C#, ReactJS, Docker, DI-containers
-  - Intermediate: JavaScript, HTML, CSS, SQL, SQLAlchemy, DS-stack (numpy, matplotlib, pandas), Linux, TCP/IP
-  - Advanced: Python3, Flask, Git)
+  - Intermediate: 
+      - JavaScript, HTML, CSS
+      - SQL, SQLAlchemy
+      - unittests
+      - DS-stack (numpy, matplotlib, pandas)
+      - Linux
+      - TCP/IP
+  - Advanced:
+      - Python3
+      - Flask
   
 ## Participation:
   - Final of NTI Olympiad in Big Data and Machine Learning (2019)
