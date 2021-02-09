@@ -10,7 +10,7 @@
       - JavaScript, HTML, CSS
       - SQL (PostgreSQL, SQLite), SQLAlchemy
       - unittests
-      - DS-stack (numpy, matplotlib, pandas)
+      - numpy, matplotlib, pandas
       - Linux
       - TCP/IP
   - Advanced:
