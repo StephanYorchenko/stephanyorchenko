@@ -8,7 +8,7 @@
   - Basic: C#, ReactJS, Docker, DI-containers
   - Intermediate: 
       - JavaScript, HTML, CSS
-      - SQL, SQLAlchemy
+      - SQL (PostgreSQL, SQLite), SQLAlchemy
       - unittests
       - DS-stack (numpy, matplotlib, pandas)
       - Linux
