@@ -5,12 +5,15 @@
  - 2019-2023 Bachelor of Fundamental informatics and information technology, Ural Federal University
  
 ## Skills:
-  - Basic: C#, ReactJS, Docker, DI-containers
+  - Basic: 
+      - C#
+      - ReactJS
+      - Docker
+      - numpy, matplotlib, pandas, Keras
   - Intermediate: 
       - JavaScript, HTML, CSS
       - SQL (PostgreSQL, SQLite), SQLAlchemy
-      - unittests
-      - numpy, matplotlib, pandas, Keras
+      - unittest
       - Linux, Bash
   - Advanced:
       - Python3
