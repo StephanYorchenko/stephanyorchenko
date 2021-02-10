@@ -12,7 +12,6 @@
       - unittests
       - numpy, matplotlib, pandas, Keras
       - Linux, Bash
-      - TCP/IP
   - Advanced:
       - Python3
       - Flask
