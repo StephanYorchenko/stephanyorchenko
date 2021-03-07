@@ -1,6 +1,6 @@
 ## Work Experience:
   - 2020: internship at the Agency for Strategic Initiatives (stack: Flask + JS + PostgreSQL)
-  - 2021: internship (python Back-end)
+  - 2021: internship (Python Back-end)
 
 ## Education:
  - 2019-2023 Bachelor of Fundamental informatics and information technology, Ural Federal University
