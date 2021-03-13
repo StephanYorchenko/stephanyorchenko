@@ -1,6 +1,6 @@
 ## Work Experience:
-  - 2020: internship at the Agency for Strategic Initiatives (stack: Flask + JS + PostgreSQL)
-  - 2021: internship at Tochka (Python Back-end)
+  - 2020 (july - august) : internship at the Agency for Strategic Initiatives (stack: Flask + JS + PostgreSQL)
+  - 2021 (march - ...): internship at Tochka (Python Back-end)
 
 ## Education:
  - 2019-2023 Bachelor of Fundamental informatics and information technology, Ural Federal University
