@@ -14,7 +14,7 @@
   - Intermediate: 
       - JavaScript, HTML, CSS
       - SQL (PostgreSQL, SQLite), SQLAlchemy
-      - unittest
+      - unittest, pytest
       - Linux, Bash
   - Advanced:
       - Python3
