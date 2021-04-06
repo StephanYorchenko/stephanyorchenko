@@ -7,7 +7,6 @@
  
 ## Skills:
   - Basic: 
-      - C#
       - ReactJS
       - Docker
       - numpy, matplotlib, pandas, Keras
