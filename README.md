@@ -1,3 +1,5 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StephanYorchenko&show_icons=true&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Work Experience:
   - 2020 (july - august) : internship at the Agency for Strategic Initiatives (stack: Flask + JS + PostgreSQL)
   - 2021 (march - ... )  : internship at Tochka (Python backend)
