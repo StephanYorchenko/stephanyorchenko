@@ -8,8 +8,8 @@
 ## Skills:
   - Basic:   
       - ReactJS, Vue.js
-      - Docker
-      - numpy, matplotlib, pandas, Keras
+      - Docker, Kubernetes
+      - numpy, matplotlib, pandas, Keras, PyTorch, TF
   - Intermediate:  
       - JavaScript, HTML, CSS
       - Node.js
@@ -18,7 +18,7 @@
       - Linux, Bash
   - Advanced:
       - Python3
-      - Flask
+      - Flask, aiohttp
   
 ## Participation:
   - Final of NTI Olympiad in Big Data and Machine Learning (2019)
@@ -31,7 +31,6 @@
   - Instagramm: [ @stephan_yorchenko ](https://www.instagram.com/stephan_yorchenko/)
   - Git: [ github ](http://yorchenko.rocks/git), [ gitlab ](https://gitlab.com/StephanYorchenko)
   - Twitter: [ @StephanYorchen1 ](https://twitter.com/StephanYorchen1)
-  <!-- - HH: [ Юрченко  Степан ](https://ekaterinburg.hh.ru/resume/c5dd9cd5ff082b424c0039ed1f5a6438675548#key-skills) -->
 
 ## Some statistics
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StephanYorchenko&show_icons=true&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
