@@ -29,7 +29,7 @@
   - Telegram: [ @stephan_yorchenko ](https://t.me/stephan_yorchenko)
   - Email: stepan33314@yandex.ru
   - Instagramm: [ @stephan_yorchenko ](https://www.instagram.com/stephan_yorchenko/)
-  - Github: [ github ](http://yorchenko.rocks/git)
+  - Git: [ github ](http://yorchenko.rocks/git), [ gitlab ](https://gitlab.com/StephanYorchenko)
   - Twitter: [ twitter ](https://twitter.com/StephanYorchen1)
   <!-- - HH: [ Юрченко  Степан ](https://ekaterinburg.hh.ru/resume/c5dd9cd5ff082b424c0039ed1f5a6438675548#key-skills) -->
 
