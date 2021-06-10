@@ -34,5 +34,3 @@
 
 ## Some statistics
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StephanYorchenko&show_icons=true&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-[![StephanYorchenko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StephanYorchenko)](https://github.com/anuraghazra/github-readme-stats) -->
