@@ -23,7 +23,7 @@
 ## Participation:
   - Final of NTI Olympiad in Big Data and Machine Learning (2019)
   - Winning three ML hackathons (2019)
-  - Participation in the Best Urfu hackathon (ML - 2019, Web - 2020)
+  - Participation in the Best UrFU hackathon (ML - 2019, Web - 2020)
       
 ## 📫 How to reach me:
   - Telegram: [ @stephan_yorchenko ](https://t.me/stephan_yorchenko)
