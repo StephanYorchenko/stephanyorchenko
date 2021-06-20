@@ -3,7 +3,7 @@
   - since march 2021  : python backend-developer at [ Tochka ](https://tochka.com)
 
 ## Education:
- - 2019-2023 Bachelor of Fundamental informatics and information technology, Ural Federal University
+ - 2019-... Bachelor of Fundamental informatics and information technology, Ural Federal University
  
 ## Skills:
   - Basic:   
