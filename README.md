@@ -18,7 +18,7 @@
       - Linux, Bash
   - Advanced:
       - Python3
-      - Flask, aiohttp
+      - Flask, aiohttp, fastapi
   
 ## Participation:
   - Final of NTI Olympiad in Big Data and Machine Learning (2019)
