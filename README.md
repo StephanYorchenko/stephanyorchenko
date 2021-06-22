@@ -8,7 +8,7 @@
 ## Skills:
   - Basic:   
       - ReactJS, Vue.js
-      - Docker, Kubernetes
+      - Kubernetes
       - numpy, matplotlib, pandas, Keras, PyTorch, TF
   - Intermediate:  
       - JavaScript, HTML, CSS
@@ -16,6 +16,7 @@
       - SQL (PostgreSQL, SQLite), SQLAlchemy
       - unittest, pytest, jest
       - Linux, Bash
+      - Docker
   - Advanced:
       - Python3
       - Flask, aiohttp, fastapi
