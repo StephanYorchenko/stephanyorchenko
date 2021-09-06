@@ -19,7 +19,7 @@
       - Docker
   - Advanced:
       - Python3
-      - Flask, aiohttp, fastapi
+      - Flask, aiohttp, FastAPI
   
 ## Participation:
   - Final of NTI Olympiad in Big Data and Machine Learning (2019)
