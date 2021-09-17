@@ -7,12 +7,12 @@
  
 ## Skills:
   - Basic:   
-      - ReactJS, Vue.js
+      - Vue.js
       - Kubernetes
       - numpy, matplotlib, pandas, Keras, PyTorch, TF
   - Intermediate:  
       - JavaScript, HTML, CSS
-      - Node.js
+      - Node.js, ReactJS
       - SQL (PostgreSQL, SQLite), SQLAlchemy
       - unittest, pytest, jest
       - Linux, Bash
