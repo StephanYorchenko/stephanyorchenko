@@ -10,6 +10,7 @@
       - Vue.js
       - Kubernetes
       - numpy, matplotlib, pandas, Keras, PyTorch, TF
+      - С#, php, scala, haskell
   - Intermediate:  
       - JavaScript, HTML, CSS
       - Node.js, ReactJS
