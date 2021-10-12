@@ -13,6 +13,7 @@
       - С#, php, scala, haskell
   - Intermediate:  
       - JavaScript, HTML, CSS
+      - TypeScript
       - Node.js, ReactJS
       - SQL (PostgreSQL, SQLite), SQLAlchemy
       - unittest, pytest, jest
