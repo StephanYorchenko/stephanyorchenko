@@ -7,13 +7,12 @@
  
 ## Skills:
   - Basic:   
-      - Vue.js
+      - Vue.js, [SVELTE](https://ru.svelte.dev/)
       - Kubernetes
       - numpy, matplotlib, pandas, Keras, PyTorch, TF
       - С#, php, scala, haskell
   - Intermediate:  
-      - JavaScript, HTML, CSS
-      - TypeScript
+      - JavaScript/TypeScript, HTML, CSS
       - Node.js, ReactJS
       - SQL (PostgreSQL, SQLite), SQLAlchemy
       - unittest, pytest, jest
