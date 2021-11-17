@@ -1,5 +1,5 @@
 ## Work experience:
-  - 2020 : internship at the [ Agency for Strategic Initiatives ](https://2035.university) (stack: Flask + JS + PostgreSQL)
+  - 2020 : internship (stack: Flask + JS + PostgreSQL)
   - since march 2021  : python backend-developer at [ Tochka ](https://tochka.com)
 
 ## Education:
