@@ -30,7 +30,7 @@
       
 ## 📫 How to reach me:
   - Telegram: [ @stephan_yorchenko ](https://t.me/stephan_yorchenko)
-  - Email: stepan33314@yandex.ru
+  - Email: [ stepan33314@yandex.ru ](mailto:stepan33314@yandex.ru)
   - Instagram: [ @stephan_yorchenko ](https://www.instagram.com/stephan_yorchenko/)
   - Git: [ github ](http://yorchenko.rocks/git), [ gitlab ](https://gitlab.com/StephanYorchenko)
   - Twitter: [ @StephanYorchen1 ](https://twitter.com/StephanYorchen1)
