@@ -22,7 +22,7 @@
       - Python3
       - Flask, aiohttp, FastAPI
   
-## Participation:
+## Events:
   - Final of NTI Olympiad in Big Data and Machine Learning (2019)
   - Winning three ML hackathons (2019)
   - Participation in the Best UrFU hackathon (ML - 2019, Web - 2020)
