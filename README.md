@@ -29,7 +29,7 @@
   - [PyCon Russia](https://pycon.ru/) (september 2021) 
       
 ## 📫 How to reach me:
-  - Telegram: [ @stephan_yorchenko ](https://t.me/stephan_yorchenko)
+  - Telegram: [ @StephanYorchenko ](https://t.me/StephanYorchenko)
   - Email: [ stepan33314@yandex.ru ](mailto:stepan33314@yandex.ru)
   - Instagram: [ @stephan_yorchenko ](https://www.instagram.com/stephan_yorchenko/)
   - Git: [ github ](http://yorchenko.rocks/git), [ gitlab ](https://gitlab.com/StephanYorchenko)
