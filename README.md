@@ -1,3 +1,4 @@
+[![MasterHead]()](your GitHub link)
 ## Work experience:
   - 2020 : internship (stack: Flask + JS + PostgreSQL)
   - since march 2021  : python backend-developer at [ Tochka ](https://tochka.com)
@@ -36,5 +37,6 @@
   - Twitter: [ @StephanYorchen1 ](https://twitter.com/StephanYorchen1)
 
 ## Some statistics
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StephanYorchenko&show_icons=true&count_private=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanYorchenko&theme=gotham&layout=compact)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StephanYorchenko&show_icons=true&count_private=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanYorchenko&theme=gotham&layout=compact) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=StephanYorchenko&theme=onedark)](https://github.com/StephanYorchenko/github-profile-trophy)
