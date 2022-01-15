@@ -25,7 +25,7 @@
     <li>Final of NTI Olympiad in Big Data and Machine Learning (2019)</li>
     <li>Winning three ML hackathons (2019)</li>
     <liParticipation in the Best UrFU hackathon (ML - 2019, Web - 2020)</li>
-    <li>[PyCon Russia](https://pycon.ru/) (september 2021) </li>
+    <li><a href="https://pycon.ru/"> PyCon Russia (september 2021)</a></li>
   </ul>
 </details>
  
