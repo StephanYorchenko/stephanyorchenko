@@ -10,7 +10,7 @@
       - Vue.js, [SVELTE](https://ru.svelte.dev/)
       - Kubernetes
       - numpy, matplotlib, pandas, Keras, PyTorch, TF
-      - С#, php, scala, haskell
+      - С#, php, scala, haskell, elixir
   - Intermediate:  
       - JavaScript/TypeScript, HTML, CSS
       - Node.js, ReactJS
