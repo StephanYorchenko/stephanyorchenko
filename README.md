@@ -36,4 +36,5 @@
   - Twitter: [ @StephanYorchen1 ](https://twitter.com/StephanYorchen1)
 
 ## Some statistics
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StephanYorchenko&show_icons=true&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StephanYorchenko&show_icons=true&count_private=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanYorchenko&theme=gotham&layout=compact)
