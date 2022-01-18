@@ -15,7 +15,7 @@
 <details> 
   <summary>:book: <strong>Education</strong></summary>
   <ul>
-    <li>since 2019: Bachelor of [Fundamental informatics and information technology](https://fiit-urfu.ru/), Ural Federal University</li>
+    <li>since 2019: Bachelor of <a href="https://fiit-urfu.ru/">Fundamental informatics and information technology</a>, Ural Federal University</li>
   </ul>
 </details>
 
