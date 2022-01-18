@@ -8,7 +8,7 @@
   <summary>💻 <strong>Work experience</strong></summary>
   <ul>
     <li>2020 : internship (stack: Flask + JS + PostgreSQL)</li>
-    <li>since march 2021  : python backend-developer at [ Tochka ](https://tochka.com)</li>
+    <li>since march 2021  : python backend-developer at <a href="https://tocheka.com">Tochka</a></li>
   </ul>
 </details>
 
