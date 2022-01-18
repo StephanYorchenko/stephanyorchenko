@@ -118,4 +118,4 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=StephanYorchenko&theme=onedark)](https://github.com/StephanYorchenko/github-profile-trophy) -->
 
 
-<img src="https://badges.krynn.dev/email?address=stepan33314@yandex.ru&padding=8">
+<a href="mailto:stepan33314@yandex.ru"><img src="https://badges.krynn.dev/email?address=stepan33314@yandex.ru&padding=8"></a>
