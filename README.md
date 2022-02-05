@@ -114,7 +114,8 @@
 
 ## Some statistics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StephanYorchenko&show_icons=true&count_private=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanYorchenko&theme=gotham&layout=compact&q=2)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanYorchenko&theme=gotham&q=2)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=StephanYorchenko&theme=onedark)](https://github.com/StephanYorchenko/github-profile-trophy) -->
 
 
