@@ -113,7 +113,7 @@
 </details>
 <details>
   <summary>💪 <strong>Stats</strong></summary>
-  <img src="https://github.r2v.ch/codewars?user=StephanYorchenko" alt="codewars">
+  <img src="https://github.r2v.ch/codewars?user=StephanYorchenko&top_languages=true" alt="codewars">
 </details>
 
 ## Some statistics
