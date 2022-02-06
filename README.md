@@ -120,7 +120,6 @@
     <img src="https://github.r2v.ch/codewars?user=StephanYorchenko&top_languages=true" alt="codewars">
 </details>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=StephanYorchenko&theme=onedark)](https://github.com/StephanYorchenko/github-profile-trophy) -->
 
 
-<a href="mailto:stepan33314@yandex.ru"><img src="https://badges.krynn.dev/email?address=stepan33314@yandex.ru&padding=8"></a>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xc26fz13mtx5xqp3obc7l68qs&unique=1&count=3)
