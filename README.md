@@ -111,6 +111,10 @@
     </li>
   </ul>
 </details>
+<details>
+  <summary>💪 <strong>Stats</strong></summary>
+  <img src="https://github.r2v.ch/codewars?user=StephanYorchenko" alt="codewars">
+</details>
 
 ## Some statistics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StephanYorchenko&show_icons=true&count_private=true&theme=gotham)
