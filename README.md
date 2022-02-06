@@ -116,7 +116,7 @@
   <img src="https://github.r2v.ch/codewars?user=StephanYorchenko&top_languages=true" alt="codewars">
 </details>
 
-## Some statistics
+## Github statistics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StephanYorchenko&show_icons=true&count_private=true&theme=gotham)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanYorchenko&theme=gotham&layout=compact&q=2)
