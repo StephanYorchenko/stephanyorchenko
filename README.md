@@ -133,5 +133,5 @@
 
 <hr/>
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xc26fz13mtx5xqp3obc7l68qs&unique=1&count=3">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xc26fz13mtx5xqp3obc7l68qs&unique=1&count=5">
 </p>
