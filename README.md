@@ -123,14 +123,14 @@
   </details>
   <details>
     <summary>💪 <strong>Stats</strong></summary>
-      <img src="https://github-readme-stats.vercel.app/api?username=StephanYorchenko&show_icons=true&count_private=true&theme=gotham" alt="git-stats">
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanYorchenko&theme=gotham&layout=compact&q=2" alt="lang-stats">
-      <br/>
       <img src="https://github.r2v.ch/codewars?user=StephanYorchenko&top_languages=true" alt="codewars">
   </details>
 </div>
-
+<hr/>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanYorchenko&show_icons=true&count_private=true&theme=gotham" alt="git-stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanYorchenko&theme=gotham&layout=compact&q=2" alt="lang-stats">
+</div>
 <hr/>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=xc26fz13mtx5xqp3obc7l68qs&unique=1&count=5">
