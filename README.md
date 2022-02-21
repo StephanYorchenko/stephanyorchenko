@@ -129,7 +129,7 @@
 <hr/>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanYorchenko&show_icons=true&count_private=true&theme=gotham" alt="git-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanYorchenko&theme=gotham&layout=compact&q=2" alt="lang-stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanYorchenko&theme=gotham&layout=compact&q=3" alt="lang-stats">
 </div>
 <hr/>
 <p align="center">
