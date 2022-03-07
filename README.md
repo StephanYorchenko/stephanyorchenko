@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=anonymous-pro&color=%2324F726&center=true&lines=Hi%2C+I'm+Stephan+Yorchenko;Backend+developer+at+Tochka">
 </div>
+
 <hr/>
 
 <div align="center">
@@ -135,3 +136,8 @@
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=xc26fz13mtx5xqp3obc7l68qs&unique=1&count=5">
 </p>
+
+<hr/>
+<div align="center">
+  <img src="https://badges.pufler.dev/visits/StephanYorchenko/stephanyorchenko"/>
+</div>
