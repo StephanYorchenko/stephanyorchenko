@@ -23,7 +23,7 @@
 <div align="center">
   <details> 
     <summary>💻 <strong>Work experience</strong></summary>
-    <ul align="left">
+    <ul align="center">
       <li>2020 : internship (stack: Flask + JS + PostgreSQL)</li>
       <li>since march 2021  : python backend-developer at <a href="https://tocheka.com">Tochka</a></li>
     </ul>
@@ -31,14 +31,14 @@
 
   <details> 
     <summary>:book: <strong>Education</strong></summary>
-    <ul align="left">
-      <li>since 2019: Bachelor of <a href="https://fiit-urfu.ru/">Fundamental informatics and information technology</a>, Ural Federal University</li>
-    </ul>
+    <div align="center">
+      <p>since 2019: Bachelor of <a href="https://fiit-urfu.ru/">Fundamental informatics and information technology</a>, Ural Federal University</p>
+    </div>
   </details>
 
   <details>
     <summary>🚀 <strong>Skills</strong></summary>
-    <dl align="left">
+    <dl align="center">
       <dt>Basic:<dt>
           <dd>
             <a href="https://github.com/search?q=user%3AStephanYorchenko+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
