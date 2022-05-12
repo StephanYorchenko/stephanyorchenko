@@ -108,7 +108,7 @@
     </dl>
   </details>
   <details>
-    <summary>💪 <strong>Stats</strong></summary>
+    <summary>💪 :trollface: <strong>Stats</strong></summary>
       <img src="https://github.r2v.ch/codewars?user=StephanYorchenko&top_languages=true" alt="codewars stats">
   </details>
 </div>
