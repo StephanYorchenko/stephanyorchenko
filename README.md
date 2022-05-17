@@ -124,6 +124,7 @@
 
 <hr/>
 
+<div align="center">
 <!--START_SECTION:waka-->
 
 ```text
@@ -136,6 +137,7 @@ Text           0 secs          ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+</div>
 
 <br />
 <div align="center">
