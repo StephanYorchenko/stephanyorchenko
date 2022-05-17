@@ -123,6 +123,21 @@
 </p> -->
 
 <hr/>
+```
+## my weekly development breakdown
+```
+
+<!--START_SECTION:waka-->
+
+```text
+Rust   4 hrs 42 mins   ███████████████████████▒░   93.62 %
+Java   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+TOML   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+```
+
+<!--END_SECTION:waka-->
+
+<br />
 <div align="center">
   <img src="https://badges.pufler.dev/visits/StephanYorchenko/stephanyorchenko"/>
 </div>
