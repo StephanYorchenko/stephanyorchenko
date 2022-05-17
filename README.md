@@ -123,9 +123,6 @@
 </p> -->
 
 <hr/>
-```
-## my weekly development breakdown
-```
 
 <!--START_SECTION:waka-->
 
