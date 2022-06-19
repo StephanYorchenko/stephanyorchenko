@@ -29,12 +29,12 @@
     </ul>
   </details>
 
-  <details> 
+<!--   <details> 
     <summary>:book: <strong>Education</strong></summary>
     <div align="center">
       <p>since 2019: Bachelor of <a href="https://fiit-urfu.ru/">Fundamental informatics and information technology</a>, Ural Federal University</p>
     </div>
-  </details>
+  </details> -->
 
   <details>
     <summary>🚀 <strong>Skills</strong></summary>
