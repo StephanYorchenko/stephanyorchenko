@@ -31,13 +31,13 @@
 </div>
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
   <details>
     <summary>💪 <strong>Stats</strong></summary>
       <img src="https://github.r2v.ch/codewars?user=StephanYorchenko&top_languages=true" alt="codewars stats">
   </details>
 </div>
-<hr/>
+<hr/> -->
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanYorchenko&show_icons=true&count_private=true&theme=gotham" alt="git-stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanYorchenko&theme=gotham&layout=compact&q=4" alt="lang-stats">
@@ -58,9 +58,4 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-</div>
-
-<br />
-<div align="center">
-  <img src="https://badges.pufler.dev/visits/StephanYorchenko/stephanyorchenko"/>
 </div>
