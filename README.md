@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=anonymous-pro&color=%2324F726&center=true&lines=Hi%2C+I'm+Stephan+Yorchenko;Backend+developer+at+Tochka">
+  <img src="https://readme-typing-svg.herokuapp.com?font=anonymous-pro&color=%2324F726&center=true&lines=Hi%2C+I'm+Stephan+Yorchenko;Frontend+developer+at+Tochka">
 </div>
 
 <hr/>
