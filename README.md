@@ -1,12 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=anonymous-pro&color=%2324F726&center=true&lines=Hi%2C+I'm+Stephan+Yorchenko;Frontend+developer+at+Tochka">
-</div>
-
-<hr/>
-
-<div align="center">
+  <img height="32" src="https://readme-typing-svg.herokuapp.com?font=anonymous-pro&color=%2324F726&center=true&lines=Hi%2C+I'm+Stephan+Yorchenko;Frontend+developer+at+Tochka">
   <a href="https://t.me/StephanYorchenko">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <img width="32" alt="Telegram logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png">
   </a>
 </div>
 <hr/>
