@@ -27,20 +27,3 @@
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanYorchenko&show_icons=true&count_private=true&theme=gotham" alt="git-stats">
 </div>
-
-<hr/>
-
-<div align="center">
-<!--START_SECTION:waka-->
-
-```text
-TypeScript       18 hrs 52 mins  █████████████████▓░░░░░░░   71.25 %
-Python           1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-Docker           1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-JSON             1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-YAML             1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Other            56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-```
-
-<!--END_SECTION:waka-->
-</div>
